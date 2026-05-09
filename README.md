@@ -42,6 +42,8 @@
 
 ---
 
+---
+
 ## 📊 Estatísticas GitHub
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoMoraes-UERJ&show_icons=true&theme=dark)
